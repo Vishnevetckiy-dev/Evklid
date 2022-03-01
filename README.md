@@ -4,4 +4,4 @@
 - сделан адаптив
 - реализован "PerfectPixel"
 - работа с JavaScript-плагинами ( swiper.js, accordion-jquery);
-- Посмотреть реализованную работу [можно здесь](https://vishnevetckiy-dev.github.io/evklid/).
+- Посмотреть реализованную работу [можно здесь](https://vishnevetckiy-dev.github.io/Evklid/).
